@@ -1,0 +1,9 @@
+{
+  "name": "livo-backend",
+  "version": "1.0.0",
+  "main": "livo.js",
+  "scripts": {
+    "start": "node livo.js"
+  },
+  "dependencies": {}
+}
