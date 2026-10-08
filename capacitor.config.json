@@ -1,0 +1,8 @@
+{
+  "appId": "com.vimline.app",
+  "appName": "Vimline",
+  "webDir": "www",
+  "server": { "androidScheme": "http", "cleartext": true },
+  "android": { "allowMixedContent": true },
+  "plugins": { "CapacitorHttp": { "enabled": false } }
+}
